@@ -1,0 +1,9 @@
+.fotoPerfil{
+    width: 100px;
+    border-radius: 50px;
+}
+
+.botoes{
+    display: grid;
+    border: 50px;
+}
