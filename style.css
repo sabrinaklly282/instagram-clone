@@ -64,3 +64,50 @@ img{
     margin-right: 45px;
 
 }
+
+.juntinhos{
+    margin: 0;
+}
+
+.quasejuntinho{
+    margin-bottom: o;
+}
+
+#pill{
+    background-color: gray;
+    border-radius: 15px;
+    padding: 4px;
+    
+}
+
+#paidapill{
+   margin-top: 10px;
+   margin-bottom: 10px;
+   
+}
+
+#paidapill img{
+    position: relative;
+    top: 3px;
+}
+
+#icone-link{
+    width: 10px;
+    height: 20px;
+    display: inline-block;
+    background-size: 20px;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/1748/1748038.png);
+    margin-inline-start: auto;
+    padding-right: 10px;
+    margin-right: 8px;
+    margin-left: 5px;
+    margin-top: 8px;
+
+    
+}
+
+a{
+    text-decoration: none;
+    
+    
+}
